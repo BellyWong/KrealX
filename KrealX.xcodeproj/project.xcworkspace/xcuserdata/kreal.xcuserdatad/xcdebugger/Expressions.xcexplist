@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BikeLayer::resetHillVertices():BikeLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_toKeyPointI">
+            </PersistentString>
+            <PersistentString
+               value = "_fromKeyPointI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BikeLayer::draw():BikeLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_stripes">
+            </PersistentString>
+            <PersistentString
+               value = "_hillKeyPoints[i-1]">
+            </PersistentString>
+            <PersistentString
+               value = "_hillKeyPoints">
+            </PersistentString>
+            <PersistentString
+               value = "_hillKeyPoints-&gt;getLength()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BikeLayer::afterLoadProcessing(b2dJson*):BikeLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_hillKeyPoints">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
